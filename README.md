@@ -1,6 +1,6 @@
 # 📝 Blog App (MERN Stack)
 
-A full-stack **Blog Application** built with the **MERN stack (MongoDB, Express, React, Node.js)**.  
+A full-stack **Blog Application** built with  the **MERN stack (MongoDB, Express, React, Node.js)**.  
 Users can sign up, log in, and manage their blog posts. Admins can view all users.
 
 ---
